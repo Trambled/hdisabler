@@ -4,9 +4,11 @@
   "Version": "${plugin_version}",
   "Description": "Example rusherhack plugin",
   "Authors": [
-    "John200410"
+    "@Sleepy.asf on discord"
   ],
   "Minecraft-Versions": [
-    "1.20.1"
+    "1.21.1",
+    "1.21.2",
+    "1.21.3"
   ]
 }
